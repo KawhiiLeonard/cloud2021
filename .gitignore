@@ -1,0 +1,15 @@
+logs
+*/target
+*/*.iml
+/.settings/
+*/.settings/
+*/.classpath
+*/.project
+/.project
+*.idea
+logs/*
+smartever-parent.iml
+.factorypath
+.project
+*.class
+.settings
